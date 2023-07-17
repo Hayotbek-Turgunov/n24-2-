@@ -452,6 +452,10 @@ img{
   height: 338px;
   object-fit: cover;
 }
+.sidebar-add-tull{
+  height: 553px;
+  border-radius:10px
+}
 
 
 /* SITE-FOOTER */
